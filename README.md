@@ -1,12 +1,17 @@
-
-## Home
 <img width="1532" alt="image" src="https://github.com/angelmaria/4ITECH/assets/18529354/c18ea0ae-9c2c-449a-aec9-65ecf2423100">
 
-# Presentación de proyecto ![image](https://github.com/angelmaria/4ITECH/assets/18529354/04a53357-7fc3-4198-aba9-bc75fb375f51)
+# Presentación de proyecto 
 [<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7204475360703340545" height="790" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>](https://www.linkedin.com/posts/silviavanessasv_aqu%C3%AD-se-resumen-m%C3%A1s-de-600-horas-de-trabajo-activity-7204475399299305473-_d5i?utm_source=share&utm_medium=member_desktop)
+
+![image](https://github.com/angelmaria/4ITECH/assets/18529354/04a53357-7fc3-4198-aba9-bc75fb375f51)
 
 # Proyecto3_Angular_@4iTech
 Proyecto del Grupo 3 de Adecco en Angular para conectar con backend en Java Spring-Boot y desarrollar el frontend.
+
+# Angular4iTech
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.0.
+
 
 # Enlaces rápidos sugeridos:
 
@@ -42,9 +47,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-# Angular4iTech
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.0.
 ## Participantes del proyecto
 <img width="1187" alt="image" src="https://github.com/angelmaria/4ITECH/assets/18529354/8e01cda9-53d2-4324-b5ca-de602d2c494e">
 
